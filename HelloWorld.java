@@ -3,6 +3,6 @@ public class HelloWorld{
 System.out.println("Hello Jenkins have a good day  ");
 System.out.println("Hi, My name is Joga  ");
 System.out.println("I am from visakhapatnam ");
-  int a=10;
+ System.out.println(" beach");
 }
 }
